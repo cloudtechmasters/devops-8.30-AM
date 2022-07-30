@@ -1,0 +1,7 @@
+this file is added by feature-2 > feature-2.txt
+
+
+
+
+
+echo this file is added by feature-2
